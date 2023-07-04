@@ -53,4 +53,6 @@ We would like to acknowledge the efforts of all the individuals who have contrib
 If you have any questions or suggestions regarding this repository, please feel free to contact the repository maintainer at divyagoyalbg@gmail.com. 
 We appreciate your feedback and contributions!
 
-Happy hypothesis testing!
+
+#### If you find it HELPFUL, don't forget to give it a STAR 
+#### Happy hypothesis testing!
