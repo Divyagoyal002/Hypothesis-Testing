@@ -1,12 +1,13 @@
 # Hypothesis Testing 
+Welcome to the Hypothesis Testing Repository! This repository contains a collection of hypothesis testing problems along with their solutions. Whether you're a student learning about hypothesis testing or a data scientist looking to brush up on your skills, this repository is here to help you deepen your understanding of this important statistical concept.
 
-Welcome to the Hypothesis Testing Repository! This repository contains various hypothesis testing files for different statistical scenarios. Each file focuses on a specific type of hypothesis test, providing explanations and examples to help you understand and apply these tests effectively.
-
+## What is Hypothesis Testing?
+Hypothesis testing is a statistical method used to make inferences about a population based on a sample. It involves formulating a hypothesis about the population parameter and testing whether the data supports or contradicts that hypothesis. Hypothesis testing allows us to draw conclusions and make decisions based on the available evidence.
 ## Types of Hypothesis Testing Files
 
 This repository includes the following hypothesis testing files:
 
-1. **T-test.ipynb**: This file demonstrates how to perform a t-test, which is used to compare the means of two independent samples. It provides functions and examples to conduct both one-sample t-tests and two-sample t-tests.( A data file [airofit[https://github.com/Divyagoyal002/Hypothesis-Testing/blob/main/aerofit.csv] is also uploaded for the problem)
+1. **T-test.ipynb**: This file demonstrates how to perform a t-test, which is used to compare the means of two independent samples. It provides functions and examples to conduct both one-sample t-tests and two-sample t-tests.( A data file [airofit](https://github.com/Divyagoyal002/Hypothesis-Testing/blob/main/aerofit.csv) is also uploaded for the problem)
 
 2. **Paired-T-Test.ipynb**: The paired_t_testing.py file explores the paired t-test, a statistical test used to compare the means of two related samples. It offers functions and examples for conducting paired t-tests and interpreting the results.
 
@@ -49,6 +50,7 @@ We would like to acknowledge the efforts of all the individuals who have contrib
 
 ## Contact
 
-If you have any questions or suggestions regarding this repository, please feel free to contact the repository maintainer at [your-email@example.com](mailto:your-email@example.com). We appreciate your feedback and contributions!
+If you have any questions or suggestions regarding this repository, please feel free to contact the repository maintainer at divyagoyalbg@gmail.com. 
+We appreciate your feedback and contributions!
 
 Happy hypothesis testing!
